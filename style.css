@@ -1,0 +1,19 @@
+.nav-form {
+  margin-left: 800px;
+}
+.carousel-section p{
+    margin-bottom: 320px;
+    
+}
+input{
+    padding: 8px;
+    border-radius: 6px;
+    outline: none;
+    border: 1px solid #ddd;
+}
+.email{
+    width: 538px;
+}
+textarea{
+    border: 1px solid #ddd;
+}
